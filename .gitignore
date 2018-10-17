@@ -7,3 +7,6 @@
 build/
 
 .flutter-plugins
+
+# Vim .swp files
+*.swp
